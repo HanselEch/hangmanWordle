@@ -6,7 +6,7 @@
 ## Description
 This is a Python-based Hangman/Wordle style game where users guess letters to find the hidden word.
 
-## How to Use
+## How to Use 
 Run the Python file and follow the prompts to play the game.
 
 ## Contributing
