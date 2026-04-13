@@ -9,3 +9,15 @@ Run the Python file and follow the prompts to play the game.
 
 ## Contributing
 You can contribute by submitting pull requests or reporting issues in the Issues tab.
+
+## Development
+This project is written in Python and follows standard coding practices.
+
+## Testing
+This project does not currently include automated tests, but functionality is manually tested.
+
+## Build
+No build system is required. Run the Python file directly.
+
+## Code Quality
+The project can be analyzed using tools like pylint or flake8 to detect common issues and improve code quality.
