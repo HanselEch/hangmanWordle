@@ -2,6 +2,7 @@
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12511/badge)](https://www.bestpractices.dev/projects/12511)
 
+
 ## Description
 This is a Python-based Hangman/Wordle style game where users guess letters to find the hidden word.
 
