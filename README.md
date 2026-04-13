@@ -1,7 +1,7 @@
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/HanselEch/hangmanWordle/badge)](https://scorecard.dev/viewer/?uri=github.com/HanselEch/hangmanWordle)
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12511/badge)](https://www.bestpractices.dev/projects/12511)
-
+ 
 
 ## Description
 This is a Python-based Hangman/Wordle style game where users guess letters to find the hidden word.
