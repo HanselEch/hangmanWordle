@@ -21,3 +21,12 @@ No build system is required. Run the Python file directly.
 
 ## Code Quality
 The project can be analyzed using tools like pylint or flake8 to detect common issues and improve code quality.
+
+## Requirements
+Python 3.x is required to run this project.
+
+## Installation
+Clone the repository and run the Python file.
+
+## Usage Example
+Run the script and input guesses when prompted.
