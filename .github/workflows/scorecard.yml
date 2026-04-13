@@ -20,6 +20,8 @@ jobs:
       - name: Run Scorecard
         uses: ossf/scorecard-action@v2.4.3
         with:
+          results_file: results.sarif
+          results_format: sarif
           publish_results: true
 
       - name: Upload results
